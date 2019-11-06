@@ -1,7 +1,7 @@
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector/BatteryCollectorCharacter.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Source\BatteryCollector/BatteryCollectorCharacter.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
@@ -10,4 +10,4 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Compone
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\BatteryCollectorCharacter.generated.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\BatteryCollectorCharacter.generated.h

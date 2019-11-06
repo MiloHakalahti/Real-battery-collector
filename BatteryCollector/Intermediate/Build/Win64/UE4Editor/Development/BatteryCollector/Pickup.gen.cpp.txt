@@ -1,5 +1,5 @@
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector/Pickup.h
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\Pickup.generated.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Source\BatteryCollector/Pickup.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\Pickup.generated.h

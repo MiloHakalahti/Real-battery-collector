@@ -1,5 +1,5 @@
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollector.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Source\BatteryCollector\BatteryCollector.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Core.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h

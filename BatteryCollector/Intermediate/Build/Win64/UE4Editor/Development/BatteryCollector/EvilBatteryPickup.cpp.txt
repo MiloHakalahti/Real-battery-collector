@@ -1,1 +1,1 @@
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h

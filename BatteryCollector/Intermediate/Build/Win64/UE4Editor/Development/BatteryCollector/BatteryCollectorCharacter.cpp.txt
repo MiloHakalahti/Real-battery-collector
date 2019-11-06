@@ -1,5 +1,5 @@
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorCharacter.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Source\BatteryCollector\BatteryCollectorCharacter.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
@@ -8,7 +8,7 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Compone
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\BatteryCollectorCharacter.generated.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\BatteryCollectorCharacter.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
@@ -37,16 +37,16 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementComponent.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\Pickup.h
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\Pickup.generated.h
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryPickup.h
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\BatteryPickup.generated.h
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Source\BatteryCollector\Pickup.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\Pickup.generated.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Source\BatteryCollector\BatteryPickup.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\BatteryPickup.generated.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\milo.hakalahti\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\BatteryCollectorGameMode.generated.h
+C:\Users\milo.hakalahti\Documents\GitHub\Real-battery-collector\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\BatteryCollectorGameMode.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
