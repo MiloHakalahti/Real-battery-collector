@@ -2,6 +2,6 @@
 	"BuildId": "5660361",
 	"Modules": 
 	{
-		"BatteryCollector": "UE4Editor-BatteryCollector-7383.dll"
+		"BatteryCollector": "UE4Editor-BatteryCollector.dll"
 	}
 }
