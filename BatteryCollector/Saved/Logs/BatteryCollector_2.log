@@ -1,4 +1,4 @@
-﻿Log file open, 11/29/19 10:30:20
+﻿Log file open, 11/29/19 10:42:47
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogInit: Display: Running engine for game: BatteryCollector
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.170750
+LogStats: Stats thread started at 0.168496
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -156,329 +156,329 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2019.11.29-08.30.21:007][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2019.11.29-08.30.21:007][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2019.11.29-08.30.21:007][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
-[2019.11.29-08.30.21:007][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2019.11.29-08.30.21:007][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
-[2019.11.29-08.30.21:007][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
-[2019.11.29-08.30.21:007][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2019.11.29-08.30.21:007][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2019.11.29-08.30.21:008][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
-[2019.11.29-08.30.21:008][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
-[2019.11.29-08.30.21:013][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.11.29-08.30.21:013][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.11.29-08.30.21:014][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.11.29-08.30.21:014][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.11.29-08.30.21:014][  0]LogInit: Selected Device Profile: [Windows]
-[2019.11.29-08.30.21:014][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.11.29-08.30.21:027][  0]LogHAL: Display: Platform has ~ 16 GB [17066573824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
-[2019.11.29-08.30.21:027][  0]LogInit: Going up to parent DeviceProfile []
-[2019.11.29-08.30.21:027][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.11.29-08.30.21:027][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2019.11.29-08.30.21:028][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
-[2019.11.29-08.30.21:028][  0]LogInit: Computer: GAMELAB-46
-[2019.11.29-08.30.21:028][  0]LogInit: User: milohakalahti
-[2019.11.29-08.30.21:028][  0]LogInit: CPU Page size=4096, Cores=4
-[2019.11.29-08.30.21:028][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2019.11.29-08.30.21:028][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2019.11.29-08.30.21:028][  0]LogMemory: Platform Memory Stats for Windows
-[2019.11.29-08.30.21:028][  0]LogMemory: Process Physical Memory: 96.56 MB used, 96.56 MB peak
-[2019.11.29-08.30.21:028][  0]LogMemory: Process Virtual Memory: 83.67 MB used, 83.67 MB peak
-[2019.11.29-08.30.21:028][  0]LogMemory: Physical Memory: 5173.47 MB used,  11102.48 MB free, 16275.95 MB total
-[2019.11.29-08.30.21:028][  0]LogMemory: Virtual Memory: 4624.95 MB used,  134213104.00 MB free, 134217728.00 MB total
-[2019.11.29-08.30.21:047][  0]LogInit: Using OS detected language (en-US).
-[2019.11.29-08.30.21:047][  0]LogInit: Using OS detected locale (en-FI).
-[2019.11.29-08.30.21:047][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2019.11.29-08.30.21:199][  0]LogInit: Setting process to per monitor DPI aware
-[2019.11.29-08.30.21:219][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2019.11.29-08.30.21:219][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2019.11.29-08.30.21:367][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.11.29-08.30.21:367][  0]LogD3D11RHI: D3D11 adapters:
-[2019.11.29-08.30.21:429][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
-[2019.11.29-08.30.21:429][  0]LogD3D11RHI:       6052/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2019.11.29-08.30.21:450][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
-[2019.11.29-08.30.21:450][  0]LogD3D11RHI:       128/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2019.11.29-08.30.21:453][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.11.29-08.30.21:453][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.11.29-08.30.21:453][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.11.29-08.30.21:458][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.11.29-08.30.21:458][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
-[2019.11.29-08.30.21:458][  0]LogWindows: EnumDisplayDevices:
-[2019.11.29-08.30.21:458][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
-[2019.11.29-08.30.21:459][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
-[2019.11.29-08.30.21:459][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
-[2019.11.29-08.30.21:459][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
-[2019.11.29-08.30.21:459][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2019.11.29-08.30.21:460][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2019.11.29-08.30.21:460][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2019.11.29-08.30.21:460][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2019.11.29-08.30.21:460][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
-[2019.11.29-08.30.21:460][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
-[2019.11.29-08.30.21:460][  0]LogD3D11RHI:      Driver Date: 7-30-2018
-[2019.11.29-08.30.21:460][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
-[2019.11.29-08.30.21:493][  0]LogD3D11RHI: Async texture creation enabled
-[2019.11.29-08.30.21:496][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.11.29-08.30.21:497][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.11.29-08.30.21:497][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.11.29-08.30.21:510][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2019.11.29-08.30.21:830][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
-[2019.11.29-08.30.21:843][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
-[2019.11.29-08.30.21:856][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
-[2019.11.29-08.30.21:870][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
-[2019.11.29-08.30.21:884][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
-[2019.11.29-08.30.21:897][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
-[2019.11.29-08.30.21:910][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
-[2019.11.29-08.30.21:924][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
-[2019.11.29-08.30.21:931][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
-[2019.11.29-08.30.22:010][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
-[2019.11.29-08.30.22:012][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
-[2019.11.29-08.30.22:060][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
-[2019.11.29-08.30.22:060][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
-[2019.11.29-08.30.22:083][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
-[2019.11.29-08.30.22:083][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
-[2019.11.29-08.30.22:095][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
-[2019.11.29-08.30.22:107][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
-[2019.11.29-08.30.22:118][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
-[2019.11.29-08.30.22:131][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
-[2019.11.29-08.30.22:173][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
-[2019.11.29-08.30.22:173][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
-[2019.11.29-08.30.22:173][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.11.29-08.30.22:180][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2019.11.29-08.30.22:227][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (../../../../../../Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Intermediate/Shaders/WorkingDirectory/12752/).
-[2019.11.29-08.30.22:227][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/milo.hakalahti/AppData/Local/Temp/UnrealShaderWorkingDir/A5BCFA414202C9E2D63463B11601C889/'.
-[2019.11.29-08.30.22:229][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2019.11.29-08.30.22:229][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2019.11.29-08.30.22:229][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2019.11.29-08.30.22:732][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.11.29-08.30.22:775][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/milo.hakalahti/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2019.11.29-08.30.22:775][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/milo.hakalahti/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
-[2019.11.29-08.30.22:775][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.11.29-08.30.22:776][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.11.29-08.30.22:776][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.11.29-08.30.22:776][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.11.29-08.30.22:787][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.11.29-08.30.22:787][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.11.29-08.30.22:787][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2019.11.29-08.30.22:800][  0]LogDerivedDataCache: Using Local data cache path C:/Users/milo.hakalahti/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.11.29-08.30.22:800][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2019.11.29-08.30.22:800][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2019.11.29-08.30.22:820][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.11.29-08.30.22:821][  0]LogSlate: Using FreeType 2.6.0
-[2019.11.29-08.30.22:821][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.11.29-08.30.22:899][  0]LogAssetRegistry: FAssetRegistry took 0.0328 seconds to start up
-[2019.11.29-08.30.23:215][  0]LogInit: Selected Device Profile: [Windows]
-[2019.11.29-08.30.23:343][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.11.29-08.30.23:343][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2019.11.29-08.30.23:343][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2019.11.29-08.30.23:343][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2019.11.29-08.30.23:343][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2019.11.29-08.30.23:352][  0]LogNetVersion: BatteryCollector 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2114802313)
-[2019.11.29-08.30.23:716][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.038680 seconds
-[2019.11.29-08.30.23:722][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
-[2019.11.29-08.30.23:722][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
-[2019.11.29-08.30.23:722][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2019.11.29-08.30.24:452][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2019.11.29-08.30.24:466][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
+[2019.11.29-08.42.48:037][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.29-08.42.48:037][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
+[2019.11.29-08.42.48:037][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
+[2019.11.29-08.42.48:042][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.29-08.42.48:042][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.29-08.42.48:043][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.29-08.42.48:043][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.29-08.42.48:043][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.29-08.42.48:060][  0]LogHAL: Display: Platform has ~ 16 GB [17066573824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.29-08.42.48:060][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.29-08.42.48:060][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.29-08.42.48:060][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.29-08.42.48:061][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
+[2019.11.29-08.42.48:061][  0]LogInit: Computer: GAMELAB-46
+[2019.11.29-08.42.48:061][  0]LogInit: User: milohakalahti
+[2019.11.29-08.42.48:061][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.29-08.42.48:061][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.29-08.42.48:061][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.29-08.42.48:061][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.29-08.42.48:061][  0]LogMemory: Process Physical Memory: 96.68 MB used, 96.68 MB peak
+[2019.11.29-08.42.48:061][  0]LogMemory: Process Virtual Memory: 83.82 MB used, 83.82 MB peak
+[2019.11.29-08.42.48:061][  0]LogMemory: Physical Memory: 4464.46 MB used,  11811.49 MB free, 16275.95 MB total
+[2019.11.29-08.42.48:061][  0]LogMemory: Virtual Memory: 4624.95 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2019.11.29-08.42.48:080][  0]LogInit: Using OS detected language (en-US).
+[2019.11.29-08.42.48:080][  0]LogInit: Using OS detected locale (en-FI).
+[2019.11.29-08.42.48:080][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.29-08.42.48:250][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.29-08.42.48:272][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.29-08.42.48:272][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.29-08.42.48:415][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.29-08.42.48:415][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.29-08.42.48:471][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.11.29-08.42.48:471][  0]LogD3D11RHI:       6052/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.29-08.42.48:492][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.11.29-08.42.48:492][  0]LogD3D11RHI:       128/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.29-08.42.48:495][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.29-08.42.48:495][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.29-08.42.48:495][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.29-08.42.48:501][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.29-08.42.48:501][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.29-08.42.48:501][  0]LogWindows: EnumDisplayDevices:
+[2019.11.29-08.42.48:501][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.11.29-08.42.48:501][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.11.29-08.42.48:502][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.11.29-08.42.48:502][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.11.29-08.42.48:502][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.29-08.42.48:502][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.29-08.42.48:503][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.29-08.42.48:503][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.11.29-08.42.48:503][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.11.29-08.42.48:503][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2019.11.29-08.42.48:503][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2019.11.29-08.42.48:503][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.11.29-08.42.48:534][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.29-08.42.48:537][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.29-08.42.48:538][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.29-08.42.48:538][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.29-08.42.48:551][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.11.29-08.42.48:882][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.29-08.42.48:894][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.29-08.42.48:907][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.29-08.42.48:921][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.29-08.42.48:935][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.29-08.42.48:947][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.29-08.42.48:960][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.29-08.42.48:973][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.29-08.42.48:980][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.29-08.42.49:057][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.29-08.42.49:058][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.29-08.42.49:105][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.29-08.42.49:105][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.29-08.42.49:128][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.29-08.42.49:128][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.29-08.42.49:139][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.29-08.42.49:150][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.29-08.42.49:161][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.29-08.42.49:174][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.29-08.42.49:215][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.29-08.42.49:215][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.29-08.42.49:215][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.29-08.42.49:222][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.29-08.42.49:264][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (../../../../../../Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Intermediate/Shaders/WorkingDirectory/10696/).
+[2019.11.29-08.42.49:265][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/milo.hakalahti/AppData/Local/Temp/UnrealShaderWorkingDir/B6FC37194EDAF5743E605BA6EF33B74F/'.
+[2019.11.29-08.42.49:266][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.29-08.42.49:267][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.29-08.42.49:267][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.29-08.42.49:771][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.29-08.42.49:817][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/milo.hakalahti/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.29-08.42.49:817][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/milo.hakalahti/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.29-08.42.49:817][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.29-08.42.49:817][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.29-08.42.49:817][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.29-08.42.49:817][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.29-08.42.49:829][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.29-08.42.49:829][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.29-08.42.49:829][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.29-08.42.49:841][  0]LogDerivedDataCache: Using Local data cache path C:/Users/milo.hakalahti/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.29-08.42.49:841][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.29-08.42.49:841][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.29-08.42.49:862][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.29-08.42.49:863][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.29-08.42.49:863][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.29-08.42.49:939][  0]LogAssetRegistry: FAssetRegistry took 0.0327 seconds to start up
+[2019.11.29-08.42.50:233][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.29-08.42.50:354][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.29-08.42.50:354][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.29-08.42.50:354][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.29-08.42.50:354][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.29-08.42.50:354][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.29-08.42.50:363][  0]LogNetVersion: BatteryCollector 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2114802313)
+[2019.11.29-08.42.50:722][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.037399 seconds
+[2019.11.29-08.42.50:728][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.29-08.42.50:728][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.29-08.42.50:728][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.29-08.42.51:447][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.29-08.42.51:460][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
