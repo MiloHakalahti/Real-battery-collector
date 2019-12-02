@@ -1,0 +1,1448 @@
+﻿Log file open, 11/29/19 14:00:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BatteryCollector
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.168374
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.29-12.00.02:374][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.29-12.00.02:374][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.29-12.00.02:374][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
+[2019.11.29-12.00.02:374][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.29-12.00.02:374][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
+[2019.11.29-12.00.02:375][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.29-12.00.02:375][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
+[2019.11.29-12.00.02:375][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
+[2019.11.29-12.00.02:381][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.29-12.00.02:381][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.29-12.00.02:382][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.29-12.00.02:382][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.29-12.00.02:382][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.29-12.00.02:382][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.29-12.00.02:382][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.29-12.00.02:382][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-12.00.02:382][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.29-12.00.02:382][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.29-12.00.02:382][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.29-12.00.02:382][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.29-12.00.02:395][  0]LogHAL: Display: Platform has ~ 16 GB [17066573824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.29-12.00.02:395][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.29-12.00.02:395][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.29-12.00.02:395][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-12.00.02:395][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.29-12.00.02:395][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.29-12.00.02:395][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-12.00.02:395][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.29-12.00.02:395][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-12.00.02:395][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.29-12.00.02:395][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.29-12.00.02:395][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Scalability.ini]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.29-12.00.02:396][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.29-12.00.02:397][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.29-12.00.02:397][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.29-12.00.02:397][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Config/Windows/Engine.ini]
+[2019.11.29-12.00.02:397][  0]LogInit: Computer: GAMELAB-46
+[2019.11.29-12.00.02:397][  0]LogInit: User: milohakalahti
+[2019.11.29-12.00.02:397][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.29-12.00.02:397][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.29-12.00.02:397][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.29-12.00.02:397][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.29-12.00.02:397][  0]LogMemory: Process Physical Memory: 96.83 MB used, 96.84 MB peak
+[2019.11.29-12.00.02:397][  0]LogMemory: Process Virtual Memory: 83.89 MB used, 83.89 MB peak
+[2019.11.29-12.00.02:397][  0]LogMemory: Physical Memory: 4537.90 MB used,  11738.05 MB free, 16275.95 MB total
+[2019.11.29-12.00.02:397][  0]LogMemory: Virtual Memory: 4624.95 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2019.11.29-12.00.02:415][  0]LogInit: Using OS detected language (en-US).
+[2019.11.29-12.00.02:415][  0]LogInit: Using OS detected locale (en-FI).
+[2019.11.29-12.00.02:416][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.29-12.00.02:584][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.29-12.00.02:616][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.29-12.00.02:616][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.29-12.00.02:768][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.29-12.00.02:768][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.29-12.00.02:826][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.11.29-12.00.02:826][  0]LogD3D11RHI:       6052/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.29-12.00.02:847][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.11.29-12.00.02:847][  0]LogD3D11RHI:       128/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.29-12.00.02:850][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.29-12.00.02:850][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.29-12.00.02:850][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.29-12.00.02:855][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.29-12.00.02:855][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.29-12.00.02:855][  0]LogWindows: EnumDisplayDevices:
+[2019.11.29-12.00.02:855][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.11.29-12.00.02:855][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.11.29-12.00.02:856][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.11.29-12.00.02:856][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.11.29-12.00.02:856][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.29-12.00.02:857][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.29-12.00.02:857][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.29-12.00.02:857][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.11.29-12.00.02:857][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.11.29-12.00.02:857][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2019.11.29-12.00.02:857][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2019.11.29-12.00.02:857][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.11.29-12.00.02:890][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.29-12.00.02:894][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.29-12.00.02:894][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.29-12.00.02:894][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.29-12.00.02:907][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.11.29-12.00.03:248][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.29-12.00.03:261][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.29-12.00.03:274][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.29-12.00.03:287][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.29-12.00.03:300][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.29-12.00.03:313][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.29-12.00.03:328][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.29-12.00.03:342][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.29-12.00.03:350][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.29-12.00.03:429][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.29-12.00.03:430][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.29-12.00.03:477][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.29-12.00.03:477][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.29-12.00.03:500][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.29-12.00.03:500][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.29-12.00.03:512][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.29-12.00.03:523][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.29-12.00.03:534][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.29-12.00.03:546][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.29-12.00.03:588][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.29-12.00.03:588][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.29-12.00.03:588][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.29-12.00.03:596][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.29-12.00.03:641][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../../Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Intermediate/Shaders/WorkingDirectory/8048/).
+[2019.11.29-12.00.03:641][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/milo.hakalahti/AppData/Local/Temp/UnrealShaderWorkingDir/190E5A5F4097937E6916B4957FBB61FA/'.
+[2019.11.29-12.00.03:643][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.29-12.00.03:643][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.29-12.00.03:643][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.29-12.00.04:162][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.29-12.00.04:209][  0]LogDerivedDataCache: Loaded boot cache 0.05s 75MB C:/Users/milo.hakalahti/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.29-12.00.04:209][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/milo.hakalahti/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.29-12.00.04:209][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.29-12.00.04:209][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.29-12.00.04:209][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.29-12.00.04:209][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.29-12.00.04:220][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.29-12.00.04:220][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.29-12.00.04:220][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.29-12.00.04:232][  0]LogDerivedDataCache: Using Local data cache path C:/Users/milo.hakalahti/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.29-12.00.04:232][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.29-12.00.04:232][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.29-12.00.04:252][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.29-12.00.04:253][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.29-12.00.04:253][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.29-12.00.04:329][  0]LogAssetRegistry: FAssetRegistry took 0.0323 seconds to start up
+[2019.11.29-12.00.04:650][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.29-12.00.04:775][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.29-12.00.04:775][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.29-12.00.04:775][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.29-12.00.04:775][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.29-12.00.04:775][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.29-12.00.04:783][  0]LogNetVersion: BatteryCollector 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2114802313)
+[2019.11.29-12.00.05:173][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.038558 seconds
+[2019.11.29-12.00.05:179][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.29-12.00.05:179][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.29-12.00.05:179][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.29-12.00.05:931][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.29-12.00.05:943][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.29-12.00.06:164][  0]SourceControl: Source control is disabled
+[2019.11.29-12.00.06:164][  0]SourceControl: Source control is disabled
+[2019.11.29-12.00.06:165][  0]SourceControl: Source control is disabled
+[2019.11.29-12.00.06:166][  0]SourceControl: Source control is disabled
+[2019.11.29-12.00.06:229][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.29-12.00.06:363][  0]LogOcInput: OculusInput pre-init called
+[2019.11.29-12.00.06:961][  0]LogEngine: Initializing Engine...
+[2019.11.29-12.00.06:962][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.29-12.00.06:963][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.29-12.00.07:148][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.29-12.00.07:160][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.29-12.00.07:235][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.29-12.00.07:254][  0]LogInit: FAudioDevice initialized.
+[2019.11.29-12.00.07:255][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.29-12.00.07:334][  0]LogDerivedDataCache: Saved boot cache 0.08s 75MB C:/Users/milo.hakalahti/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.29-12.00.07:344][  0]LogInit: Texture streaming: Enabled
+[2019.11.29-12.00.07:359][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.29-12.00.07:375][  0]LogInit: Transaction tracking system initialized
+[2019.11.29-12.00.07:397][  0]BlueprintLog: New page: Editor Load
+[2019.11.29-12.00.07:466][  0]LocalizationService: Localization service is disabled
+[2019.11.29-12.00.07:717][  0]LogFileCache: Scanning file cache for directory 'C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Content/' took 0.01s
+[2019.11.29-12.00.07:717][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.29-12.00.07:717][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.29-12.00.07:864][  0]SourceControl: Source control is disabled
+[2019.11.29-12.00.07:864][  0]Cmd: MAP LOAD FILE="../../../../../../Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Content/BatteryCollector.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.29-12.00.07:864][  0]LightingResults: New page: Lighting Build
+[2019.11.29-12.00.07:867][  0]MapCheck: New page: Map Check
+[2019.11.29-12.00.07:867][  0]LightingResults: New page: Lighting Build
+[2019.11.29-12.00.07:892][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.11.29-12.00.08:214][  0]LogAIModule: Creating AISystem for world BatteryCollector
+[2019.11.29-12.00.08:242][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.29-12.00.08:267][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.11.29-12.00.08:267][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.29-12.00.08:268][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2019.11.29-12.00.08:268][  0]LogFileHelpers: Loading map 'BatteryCollector' took 0.404
+[2019.11.29-12.00.08:371][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.00.08:378][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.00.08:385][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.00.08:392][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.00.08:397][  0]LogCollectionManager: Loaded 0 collections in 0.001405 seconds
+[2019.11.29-12.00.08:425][  0]LogFileCache: Scanning file cache for directory 'C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Saved/Collections/' took 0.01s
+[2019.11.29-12.00.08:425][  0]LogFileCache: Scanning file cache for directory 'C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Content/Developers/milohakalahti/Collections/' took 0.01s
+[2019.11.29-12.00.08:425][  0]LogFileCache: Scanning file cache for directory 'C:/Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Content/Collections/' took 0.00s
+[2019.11.29-12.00.08:425][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.29-12.00.08:434][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2737 classes and 661 folders.
+[2019.11.29-12.00.08:440][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.29-12.00.08:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.29-12.00.08:468][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.29-12.00.08:474][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.29-12.00.08:487][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.29-12.00.08:489][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.29-12.00.08:493][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.29-12.00.08:550][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2019.11.29-12.00.08:754][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.29-12.00.08:754][  0]LogLoad: (Engine Initialization) Total time: 7.61 seconds
+[2019.11.29-12.00.08:754][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.29-12.00.08:811][  0]LogAssetRegistry: Asset discovery search completed in 4.5041 seconds
+[2019.11.29-12.00.08:813][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.29-12.00.08:813][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2019.11.29-12.00.08:814][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.29-12.00.10:599][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.29-12.00.12:559][436]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.29-12.00.12:574][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BatteryCollector.BatteryCollector:PersistentLevel' has LevelScriptBlueprint '/Game/BatteryCollector.BatteryCollector:PersistentLevel.BatteryCollector' with GeneratedClass '/Game/BatteryCollector.BatteryCollector_C' with ClassGeneratedBy '/Game/BatteryCollector.BatteryCollector:PersistentLevel.BatteryCollector'
+[2019.11.29-12.00.12:574][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.29-12.00.12:574][436]PIE: New page: PIE session: BatteryCollector (Nov 29, 2019, 4:00:12 PM)
+[2019.11.29-12.00.12:586][436]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BatteryCollector
+[2019.11.29-12.00.12:608][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021886s)
+[2019.11.29-12.00.12:609][436]LogAIModule: Creating AISystem for world BatteryCollector
+[2019.11.29-12.00.12:609][436]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2019.11.29-12.00.12:609][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BatteryCollector.BatteryCollector to /Game/UEDPIE_0_BatteryCollector.BatteryCollector (0.023028s)
+[2019.11.29-12.00.12:629][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.11.29-12.00.12:647][436]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.29-12.00.12:662][436]LogInit: FAudioDevice initialized.
+[2019.11.29-12.00.12:669][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.00.12:731][436]LogLoad: Game class is 'GameMode_BP_C'
+[2019.11.29-12.00.12:735][436]LogWorld: Bringing World /Game/UEDPIE_0_BatteryCollector.BatteryCollector up for play (max tick rate 0) at 2019.11.29-14.00.12
+[2019.11.29-12.00.12:735][436]LogWorld: Bringing up level for play took: 0.002529
+[2019.11.29-12.00.12:758][436]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.11.29-12.00.12:764][436]PIE: Play in editor start time for /Game/UEDPIE_0_BatteryCollector -0.255
+[2019.11.29-12.00.12:765][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BatteryCollector.BatteryCollector:PersistentLevel' has LevelScriptBlueprint '/Game/BatteryCollector.BatteryCollector:PersistentLevel.BatteryCollector' with GeneratedClass '/Game/BatteryCollector.BatteryCollector_C' with ClassGeneratedBy '/Game/BatteryCollector.BatteryCollector:PersistentLevel.BatteryCollector'
+[2019.11.29-12.00.13:823][559]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BatteryCollector.BatteryCollector:PersistentLevel' has LevelScriptBlueprint '/Game/BatteryCollector.BatteryCollector:PersistentLevel.BatteryCollector' with GeneratedClass '/Game/BatteryCollector.BatteryCollector_C' with ClassGeneratedBy '/Game/BatteryCollector.BatteryCollector:PersistentLevel.BatteryCollector'
+[2019.11.29-12.00.13:824][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.00.13:840][559]LogSlate: Window 'BatteryCollector Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.29-12.00.13:873][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.29-12.00.13:873][559]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BatteryCollector.BatteryCollector:PersistentLevel' has LevelScriptBlueprint '/Game/BatteryCollector.BatteryCollector:PersistentLevel.BatteryCollector' with GeneratedClass '/Game/BatteryCollector.BatteryCollector_C' with ClassGeneratedBy '/Game/BatteryCollector.BatteryCollector:PersistentLevel.BatteryCollector'
+[2019.11.29-12.00.13:904][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.11.29-12.00.13:924][561]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.11.29-12.00.15:468][744]LogSlate: Took 0.006705 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.29-12.00.15:517][744]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.29-12.00.15:522][744]LogAssetEditorManager: Opening Asset editor for World /Game/MainMenu.MainMenu
+[2019.11.29-12.00.15:545][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.11.29-12.00.15:545][744]Cmd: MAP LOAD FILE="../../../../../../Users/milo.hakalahti/Documents/GitHub/Real-battery-collector/BatteryCollector/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.29-12.00.15:545][744]LightingResults: New page: Lighting Build
+[2019.11.29-12.00.15:546][744]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.11.29-12.00.15:547][744]MapCheck: New page: Map Check
+[2019.11.29-12.00.15:547][744]LightingResults: New page: Lighting Build
+[2019.11.29-12.00.15:572][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.11.29-12.00.15:573][744]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.29-12.00.15:596][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.11.29-12.00.15:624][744]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.29-12.00.15:624][744]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2019.11.29-12.00.15:624][744]LogFileHelpers: Loading map 'MainMenu' took 0.079
+[2019.11.29-12.00.16:570][844]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.11.29-12.00.16:585][844]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.00.16:585][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.29-12.00.16:585][844]PIE: New page: PIE session: MainMenu (Nov 29, 2019, 4:00:16 PM)
+[2019.11.29-12.00.16:585][844]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.11.29-12.00.16:586][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001024s)
+[2019.11.29-12.00.16:587][844]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.29-12.00.16:587][844]LogPlayLevel: PIE: World Init took: (0.000425s)
+[2019.11.29-12.00.16:587][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001628s)
+[2019.11.29-12.00.16:608][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.11.29-12.00.16:625][844]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.29-12.00.16:639][844]LogInit: FAudioDevice initialized.
+[2019.11.29-12.00.16:645][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.00.16:678][844]LogLoad: Game class is 'GameMode_BP_C'
+[2019.11.29-12.00.16:679][844]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.29-14.00.16
+[2019.11.29-12.00.16:679][844]LogWorld: Bringing up level for play took: 0.000382
+[2019.11.29-12.00.16:693][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.00.16:695][844]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu -0.324
+[2019.11.29-12.00.16:696][844]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.00.18:201][ 23]LogNet: Browse: /Game/BatteryCollector2
+[2019.11.29-12.00.18:202][ 23]LogLoad: LoadMap: /Game/BatteryCollector2
+[2019.11.29-12.00.18:225][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.11.29-12.00.18:296][ 23]LogAIModule: Creating AISystem for world BatteryCollector2
+[2019.11.29-12.00.18:296][ 23]LogLoad: Game class is 'GameMode_BP_C'
+[2019.11.29-12.00.18:298][ 23]LogWorld: Bringing World /Game/UEDPIE_0_BatteryCollector2.BatteryCollector2 up for play (max tick rate 0) at 2019.11.29-14.00.18
+[2019.11.29-12.00.18:299][ 23]LogWorld: Bringing up level for play took: 0.001452
+[2019.11.29-12.00.18:301][ 23]LogLoad: Took 0.100024 seconds to LoadMap(/Game/BatteryCollector2)
+[2019.11.29-12.00.22:503][523]LogClass: You have collected BatteryPickup_BP_C_1
+[2019.11.29-12.00.22:503][523]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.29:562][370]LogClass: You have collected BatteryPickup_BP_C_11
+[2019.11.29-12.00.29:562][370]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.30:504][483]LogClass: You have collected BatteryPickup_BP_C_32
+[2019.11.29-12.00.30:504][483]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.32:029][666]LogClass: You have collected BatteryPickup_BP_C_22
+[2019.11.29-12.00.32:029][666]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.33:563][850]LogClass: You have collected EvilBatteryPickup_BP1_C_1
+[2019.11.29-12.00.33:563][850]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.34:254][933]LogClass: You have collected BatteryPickup_BP_C_7
+[2019.11.29-12.00.34:254][933]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.35:263][ 54]LogClass: You have collected BatteryPickup_BP_C_30
+[2019.11.29-12.00.35:263][ 54]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.37:022][265]LogClass: You have collected EvilBatteryPickup_BP1_C_12
+[2019.11.29-12.00.37:022][265]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.37:022][265]LogClass: You have collected BatteryPickup_BP_C_37
+[2019.11.29-12.00.37:022][265]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.37:896][370]LogClass: You have collected BatteryPickup_BP_C_36
+[2019.11.29-12.00.37:897][370]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.39:822][601]LogClass: You have collected BatteryPickup_BP_C_33
+[2019.11.29-12.00.39:822][601]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.41:131][758]LogClass: You have collected BatteryPickup_BP_C_63
+[2019.11.29-12.00.41:131][758]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.41:847][844]LogClass: You have collected BatteryPickup_BP_C_109
+[2019.11.29-12.00.41:848][844]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.43:864][ 86]LogClass: You have collected BatteryPickup_BP_C_48
+[2019.11.29-12.00.43:864][ 86]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.44:056][109]LogClass: You have collected BatteryPickup_BP_C_18
+[2019.11.29-12.00.44:056][109]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.44:439][155]LogClass: You have collected BatteryPickup_BP_C_89
+[2019.11.29-12.00.44:440][155]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.44:615][176]LogClass: You have collected BatteryPickup_BP_C_61
+[2019.11.29-12.00.44:615][176]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.45:182][244]LogClass: You have collected BatteryPickup_BP_C_55
+[2019.11.29-12.00.45:182][244]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.47:415][512]LogClass: You have collected BatteryPickup_BP_C_51
+[2019.11.29-12.00.47:415][512]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.48:524][645]LogClass: You have collected BatteryPickup_BP_C_25
+[2019.11.29-12.00.48:524][645]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.50:823][921]LogClass: You have collected BatteryPickup_BP_C_17
+[2019.11.29-12.00.50:823][921]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.52:108][ 75]LogClass: You have collected BatteryPickup_BP_C_83
+[2019.11.29-12.00.52:108][ 75]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.52:892][169]LogClass: You have collected EvilBatteryPickup_BP1_C_18
+[2019.11.29-12.00.52:892][169]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.52:892][169]LogClass: You have collected BatteryPickup_BP_C_92
+[2019.11.29-12.00.52:892][169]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.00.53:566][250]LogClass: You have collected BatteryPickup_BP_C_154
+[2019.11.29-12.00.53:566][250]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.01:576][211]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.01.01:576][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.01.01:592][211]LogSlate: Window 'BatteryCollector Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.29-12.01.01:626][211]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.29-12.01.01:627][211]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.01.01:657][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.11.29-12.01.01:681][213]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.11.29-12.01.03:409][418]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.01.03:409][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.29-12.01.03:409][418]PIE: New page: PIE session: MainMenu (Nov 29, 2019, 4:01:03 PM)
+[2019.11.29-12.01.03:409][418]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.11.29-12.01.03:410][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001068s)
+[2019.11.29-12.01.03:410][418]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.29-12.01.03:410][418]LogPlayLevel: PIE: World Init took: (0.000433s)
+[2019.11.29-12.01.03:410][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001591s)
+[2019.11.29-12.01.03:431][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.11.29-12.01.03:448][418]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.29-12.01.03:463][418]LogInit: FAudioDevice initialized.
+[2019.11.29-12.01.03:492][418]LogLoad: Game class is 'GameMode_BP_C'
+[2019.11.29-12.01.03:493][418]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.29-14.01.03
+[2019.11.29-12.01.03:493][418]LogWorld: Bringing up level for play took: 0.000324
+[2019.11.29-12.01.03:507][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.01.03:508][418]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu 0.487
+[2019.11.29-12.01.03:508][418]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.01.04:132][492]LogNet: Browse: /Game/BatteryCollector2
+[2019.11.29-12.01.04:132][492]LogLoad: LoadMap: /Game/BatteryCollector2
+[2019.11.29-12.01.04:154][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.11.29-12.01.04:195][492]LogAIModule: Creating AISystem for world BatteryCollector2
+[2019.11.29-12.01.04:195][492]LogLoad: Game class is 'GameMode_BP_C'
+[2019.11.29-12.01.04:197][492]LogWorld: Bringing World /Game/UEDPIE_0_BatteryCollector2.BatteryCollector2 up for play (max tick rate 0) at 2019.11.29-14.01.04
+[2019.11.29-12.01.04:198][492]LogWorld: Bringing up level for play took: 0.001507
+[2019.11.29-12.01.04:200][492]LogLoad: Took 0.068709 seconds to LoadMap(/Game/BatteryCollector2)
+[2019.11.29-12.01.08:520][  9]LogClass: You have collected BatteryPickup_BP_C_3
+[2019.11.29-12.01.08:521][  9]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.11:003][307]LogClass: You have collected BatteryPickup_BP_C_24
+[2019.11.29-12.01.11:004][307]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.14:521][729]LogClass: You have collected BatteryPickup_BP_C_28
+[2019.11.29-12.01.14:521][729]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.16:279][940]LogClass: You have collected BatteryPickup_BP_C_20
+[2019.11.29-12.01.16:279][940]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.18:331][184]LogClass: You have collected BatteryPickup_BP_C_13
+[2019.11.29-12.01.18:331][184]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.18:506][205]LogClass: You have collected BatteryPickup_BP_C_52
+[2019.11.29-12.01.18:506][205]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.19:597][336]LogClass: You have collected BatteryPickup_BP_C_49
+[2019.11.29-12.01.19:598][336]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.19:931][376]LogClass: You have collected BatteryPickup_BP_C_4
+[2019.11.29-12.01.19:931][376]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.21:898][612]LogClass: You have collected EvilBatteryPickup_BP1_C_27
+[2019.11.29-12.01.21:898][612]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.21:898][612]LogClass: You have collected BatteryPickup_BP_C_51
+[2019.11.29-12.01.21:898][612]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.22:040][629]LogClass: You have collected BatteryPickup_BP_C_86
+[2019.11.29-12.01.22:040][629]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.22:698][708]LogClass: You have collected BatteryPickup_BP_C_38
+[2019.11.29-12.01.22:698][708]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.24:989][983]LogClass: You have collected BatteryPickup_BP_C_56
+[2019.11.29-12.01.24:989][983]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.24:989][983]LogClass: You have collected BatteryPickup_BP_C_26
+[2019.11.29-12.01.24:989][983]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.26:732][192]LogClass: You have collected BatteryPickup_BP_C_67
+[2019.11.29-12.01.26:732][192]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.26:923][215]LogClass: You have collected BatteryPickup_BP_C_60
+[2019.11.29-12.01.26:923][215]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.27:482][282]LogClass: You have collected BatteryPickup_BP_C_5
+[2019.11.29-12.01.27:482][282]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.28:090][355]LogClass: You have collected BatteryPickup_BP_C_91
+[2019.11.29-12.01.28:090][355]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.29:757][555]LogClass: You have collected BatteryPickup_BP_C_124
+[2019.11.29-12.01.29:757][555]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.30:940][697]LogClass: You have collected BatteryPickup_BP_C_80
+[2019.11.29-12.01.30:941][697]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.30:941][697]LogClass: You have collected BatteryPickup_BP_C_55
+[2019.11.29-12.01.30:941][697]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.31:790][799]LogClass: You have collected BatteryPickup_BP_C_73
+[2019.11.29-12.01.31:790][799]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.32:892][931]LogClass: You have collected BatteryPickup_BP_C_109
+[2019.11.29-12.01.32:892][931]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.33:066][952]LogClass: You have collected BatteryPickup_BP_C_50
+[2019.11.29-12.01.33:066][952]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.33:758][ 35]LogClass: You have collected BatteryPickup_BP_C_143
+[2019.11.29-12.01.33:758][ 35]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.34:249][ 94]LogClass: You have collected BatteryPickup_BP_C_25
+[2019.11.29-12.01.34:249][ 94]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.34:424][115]LogClass: You have collected BatteryPickup_BP_C_64
+[2019.11.29-12.01.34:424][115]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.35:516][246]LogClass: You have collected EvilBatteryPickup_BP1_C_14
+[2019.11.29-12.01.35:516][246]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.35:866][288]LogClass: You have collected BatteryPickup_BP_C_148
+[2019.11.29-12.01.35:866][288]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.39:534][728]LogClass: You have collected BatteryPickup_BP_C_135
+[2019.11.29-12.01.39:535][728]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.39:535][728]LogClass: You have collected BatteryPickup_BP_C_72
+[2019.11.29-12.01.39:535][728]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.39:900][772]LogClass: You have collected EvilBatteryPickup_BP1_C_51
+[2019.11.29-12.01.39:900][772]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.40:350][826]LogClass: You have collected BatteryPickup_BP_C_17
+[2019.11.29-12.01.40:350][826]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.40:617][858]LogClass: You have collected BatteryPickup_BP_C_46
+[2019.11.29-12.01.40:617][858]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.42:234][ 52]LogClass: You have collected BatteryPickup_BP_C_58
+[2019.11.29-12.01.42:234][ 52]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.45:343][425]LogClass: You have collected BatteryPickup_BP_C_2
+[2019.11.29-12.01.45:343][425]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.45:592][455]LogClass: You have collected EvilBatteryPickup_BP1_C_32
+[2019.11.29-12.01.45:592][455]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.46:043][509]LogClass: You have collected BatteryPickup_BP_C_123
+[2019.11.29-12.01.46:043][509]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.47:469][680]LogClass: You have collected BatteryPickup_BP_C_218
+[2019.11.29-12.01.47:469][680]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.47:677][705]LogClass: You have collected BatteryPickup_BP_C_103
+[2019.11.29-12.01.47:677][705]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.47:868][728]LogClass: You have collected BatteryPickup_BP_C_77
+[2019.11.29-12.01.47:868][728]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.48:251][774]LogClass: You have collected BatteryPickup_BP_C_18
+[2019.11.29-12.01.48:252][774]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.48:252][774]LogClass: You have collected BatteryPickup_BP_C_65
+[2019.11.29-12.01.48:252][774]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.48:252][774]LogClass: You have collected BatteryPickup_BP_C_27
+[2019.11.29-12.01.48:252][774]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.48:943][857]LogClass: You have collected EvilBatteryPickup_BP1_C_24
+[2019.11.29-12.01.48:943][857]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.49:136][880]LogClass: You have collected BatteryPickup_BP_C_175
+[2019.11.29-12.01.49:136][880]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.49:136][880]LogClass: You have collected BatteryPickup_BP_C_184
+[2019.11.29-12.01.49:136][880]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.50:110][997]LogClass: You have collected BatteryPickup_BP_C_167
+[2019.11.29-12.01.50:110][997]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.51:818][202]LogClass: You have collected BatteryPickup_BP_C_0
+[2019.11.29-12.01.51:819][202]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.52:219][250]LogClass: You have collected BatteryPickup_BP_C_29
+[2019.11.29-12.01.52:219][250]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.53:135][360]LogClass: You have collected BatteryPickup_BP_C_31
+[2019.11.29-12.01.53:135][360]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.53:244][373]LogClass: You have collected BatteryPickup_BP_C_147
+[2019.11.29-12.01.53:244][373]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.55:085][594]LogClass: You have collected BatteryPickup_BP_C_215
+[2019.11.29-12.01.55:086][594]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.55:243][613]LogClass: You have collected BatteryPickup_BP_C_256
+[2019.11.29-12.01.55:244][613]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.55:402][632]LogClass: You have collected BatteryPickup_BP_C_183
+[2019.11.29-12.01.55:402][632]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.55:578][653]LogClass: You have collected BatteryPickup_BP_C_257
+[2019.11.29-12.01.55:578][653]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.56:879][809]LogClass: You have collected BatteryPickup_BP_C_85
+[2019.11.29-12.01.56:879][809]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.56:879][809]LogClass: You have collected BatteryPickup_BP_C_107
+[2019.11.29-12.01.56:879][809]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.57:069][832]LogClass: You have collected BatteryPickup_BP_C_191
+[2019.11.29-12.01.57:069][832]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.01.59:054][ 70]LogClass: You have collected BatteryPickup_BP_C_237
+[2019.11.29-12.01.59:054][ 70]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.00:187][206]LogClass: You have collected BatteryPickup_BP_C_113
+[2019.11.29-12.02.00:187][206]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.00:187][206]LogClass: You have collected BatteryPickup_BP_C_10
+[2019.11.29-12.02.00:187][206]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.00:912][293]LogClass: You have collected BatteryPickup_BP_C_301
+[2019.11.29-12.02.00:912][293]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.01:120][318]LogClass: You have collected BatteryPickup_BP_C_197
+[2019.11.29-12.02.01:120][318]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.01:121][318]LogClass: You have collected BatteryPickup_BP_C_139
+[2019.11.29-12.02.01:121][318]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.01:278][337]LogClass: You have collected BatteryPickup_BP_C_142
+[2019.11.29-12.02.01:278][337]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.01:820][402]LogClass: You have collected BatteryPickup_BP_C_152
+[2019.11.29-12.02.01:820][402]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.01:820][402]LogClass: You have collected BatteryPickup_BP_C_9
+[2019.11.29-12.02.01:820][402]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.02:221][450]LogClass: You have collected BatteryPickup_BP_C_309
+[2019.11.29-12.02.02:221][450]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.02:445][477]LogClass: You have collected BatteryPickup_BP_C_156
+[2019.11.29-12.02.02:446][477]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.02:637][500]LogClass: You have collected BatteryPickup_BP_C_102
+[2019.11.29-12.02.02:637][500]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.02:795][519]LogClass: You have collected BatteryPickup_BP_C_140
+[2019.11.29-12.02.02:796][519]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.03:420][594]LogClass: You have collected BatteryPickup_BP_C_185
+[2019.11.29-12.02.03:420][594]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.03:420][594]LogClass: You have collected BatteryPickup_BP_C_311
+[2019.11.29-12.02.03:420][594]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.03:645][621]LogClass: You have collected BatteryPickup_BP_C_284
+[2019.11.29-12.02.03:645][621]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.06:504][964]LogClass: You have collected EvilBatteryPickup_BP1_C_63
+[2019.11.29-12.02.06:504][964]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.07:404][ 72]LogClass: You have collected BatteryPickup_BP_C_75
+[2019.11.29-12.02.07:404][ 72]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.07:562][ 91]LogClass: You have collected BatteryPickup_BP_C_42
+[2019.11.29-12.02.07:562][ 91]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.07:739][112]LogClass: You have collected BatteryPickup_BP_C_279
+[2019.11.29-12.02.07:739][112]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.08:013][145]LogClass: You have collected EvilBatteryPickup_BP1_C_38
+[2019.11.29-12.02.08:013][145]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.08:729][231]LogClass: You have collected BatteryPickup_BP_C_116
+[2019.11.29-12.02.08:729][231]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.08:955][258]LogClass: You have collected EvilBatteryPickup_BP1_C_15
+[2019.11.29-12.02.08:955][258]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.09:688][346]LogClass: You have collected BatteryPickup_BP_C_217
+[2019.11.29-12.02.09:688][346]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.09:688][346]LogClass: You have collected BatteryPickup_BP_C_93
+[2019.11.29-12.02.09:688][346]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.09:871][368]LogClass: You have collected BatteryPickup_BP_C_346
+[2019.11.29-12.02.09:871][368]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.09:872][368]LogClass: You have collected BatteryPickup_BP_C_14
+[2019.11.29-12.02.09:872][368]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.12:764][715]LogClass: You have collected BatteryPickup_BP_C_133
+[2019.11.29-12.02.12:764][715]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.12:956][738]LogClass: You have collected EvilBatteryPickup_BP1_C_101
+[2019.11.29-12.02.12:956][738]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.13:563][811]LogClass: You have collected EvilBatteryPickup_BP1_C_40
+[2019.11.29-12.02.13:564][811]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.13:755][834]LogClass: You have collected BatteryPickup_BP_C_187
+[2019.11.29-12.02.13:755][834]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.14:538][928]LogClass: You have collected BatteryPickup_BP_C_320
+[2019.11.29-12.02.14:538][928]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.14:889][970]LogClass: You have collected EvilBatteryPickup_BP1_C_67
+[2019.11.29-12.02.14:889][970]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.15:738][ 72]LogClass: You have collected BatteryPickup_BP_C_96
+[2019.11.29-12.02.15:738][ 72]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.16:122][118]LogClass: You have collected BatteryPickup_BP_C_214
+[2019.11.29-12.02.16:122][118]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.16:673][184]LogClass: You have collected BatteryPickup_BP_C_367
+[2019.11.29-12.02.16:673][184]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.17:805][320]LogClass: You have collected BatteryPickup_BP_C_211
+[2019.11.29-12.02.17:805][320]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.17:981][341]LogClass: You have collected BatteryPickup_BP_C_282
+[2019.11.29-12.02.17:981][341]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.17:981][341]LogClass: You have collected BatteryPickup_BP_C_268
+[2019.11.29-12.02.17:981][341]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.18:172][364]LogClass: You have collected BatteryPickup_BP_C_157
+[2019.11.29-12.02.18:172][364]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.18:381][389]LogClass: You have collected EvilBatteryPickup_BP1_C_88
+[2019.11.29-12.02.18:381][389]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.21:692][784]LogClass: You have collected BatteryPickup_BP_C_359
+[2019.11.29-12.02.21:692][784]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.21:692][784]LogClass: You have collected BatteryPickup_BP_C_275
+[2019.11.29-12.02.21:692][784]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.21:849][803]LogClass: You have collected BatteryPickup_BP_C_71
+[2019.11.29-12.02.21:849][803]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.21:849][803]LogClass: You have collected BatteryPickup_BP_C_117
+[2019.11.29-12.02.21:849][803]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.22:025][824]LogClass: You have collected EvilBatteryPickup_BP1_C_120
+[2019.11.29-12.02.22:025][824]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.22:334][861]LogClass: You have collected BatteryPickup_BP_C_267
+[2019.11.29-12.02.22:334][861]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.22:334][861]LogClass: You have collected BatteryPickup_BP_C_221
+[2019.11.29-12.02.22:334][861]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.22:541][886]LogClass: You have collected BatteryPickup_BP_C_189
+[2019.11.29-12.02.22:541][886]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.23:516][  3]LogClass: You have collected BatteryPickup_BP_C_226
+[2019.11.29-12.02.23:517][  3]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.23:692][ 24]LogClass: You have collected BatteryPickup_BP_C_84
+[2019.11.29-12.02.23:692][ 24]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.23:883][ 47]LogClass: You have collected BatteryPickup_BP_C_111
+[2019.11.29-12.02.23:883][ 47]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.24:075][ 70]LogClass: You have collected BatteryPickup_BP_C_321
+[2019.11.29-12.02.24:075][ 70]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.24:266][ 93]LogClass: You have collected BatteryPickup_BP_C_276
+[2019.11.29-12.02.24:266][ 93]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.24:441][114]LogClass: You have collected EvilBatteryPickup_BP1_C_110
+[2019.11.29-12.02.24:441][114]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.24:616][135]LogClass: You have collected BatteryPickup_BP_C_394
+[2019.11.29-12.02.24:616][135]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.24:858][164]LogClass: You have collected EvilBatteryPickup_BP1_C_42
+[2019.11.29-12.02.24:858][164]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.24:858][164]LogClass: You have collected BatteryPickup_BP_C_395
+[2019.11.29-12.02.24:858][164]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.25:375][226]LogClass: You have collected EvilBatteryPickup_BP1_C_45
+[2019.11.29-12.02.25:375][226]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.26:925][412]LogClass: You have collected BatteryPickup_BP_C_83
+[2019.11.29-12.02.26:925][412]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.27:067][429]LogClass: You have collected BatteryPickup_BP_C_424
+[2019.11.29-12.02.27:067][429]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.27:242][450]LogClass: You have collected BatteryPickup_BP_C_21
+[2019.11.29-12.02.27:242][450]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.28:025][544]LogClass: You have collected BatteryPickup_BP_C_351
+[2019.11.29-12.02.28:025][544]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.28:025][544]LogClass: You have collected BatteryPickup_BP_C_155
+[2019.11.29-12.02.28:025][544]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.28:192][564]LogClass: You have collected BatteryPickup_BP_C_144
+[2019.11.29-12.02.28:192][564]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.28:192][564]LogClass: You have collected EvilBatteryPickup_BP1_C_132
+[2019.11.29-12.02.28:192][564]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.28:542][606]LogClass: You have collected BatteryPickup_BP_C_360
+[2019.11.29-12.02.28:542][606]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.28:542][606]LogClass: You have collected EvilBatteryPickup_BP1_C_127
+[2019.11.29-12.02.28:542][606]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.28:717][627]LogClass: You have collected EvilBatteryPickup_BP1_C_111
+[2019.11.29-12.02.28:717][627]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.28:909][650]LogClass: You have collected EvilBatteryPickup_BP1_C_123
+[2019.11.29-12.02.28:909][650]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.29:134][677]LogClass: You have collected BatteryPickup_BP_C_427
+[2019.11.29-12.02.29:134][677]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.29:326][700]LogClass: You have collected BatteryPickup_BP_C_166
+[2019.11.29-12.02.29:326][700]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.29:709][746]LogClass: You have collected BatteryPickup_BP_C_170
+[2019.11.29-12.02.29:709][746]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.29:901][769]LogClass: You have collected BatteryPickup_BP_C_181
+[2019.11.29-12.02.29:901][769]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.30:092][792]LogClass: You have collected BatteryPickup_BP_C_114
+[2019.11.29-12.02.30:092][792]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.30:284][815]LogClass: You have collected BatteryPickup_BP_C_115
+[2019.11.29-12.02.30:284][815]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.30:651][859]LogClass: You have collected BatteryPickup_BP_C_437
+[2019.11.29-12.02.30:651][859]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.31:642][978]LogClass: You have collected BatteryPickup_BP_C_434
+[2019.11.29-12.02.31:642][978]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.31:643][978]LogClass: You have collected EvilBatteryPickup_BP1_C_97
+[2019.11.29-12.02.31:643][978]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.31:643][978]LogClass: You have collected BatteryPickup_BP_C_353
+[2019.11.29-12.02.31:643][978]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.31:643][978]LogClass: You have collected BatteryPickup_BP_C_242
+[2019.11.29-12.02.31:643][978]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.32:059][ 28]LogClass: You have collected BatteryPickup_BP_C_22
+[2019.11.29-12.02.32:059][ 28]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.02.44:803][557]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=3820.21 Y=294.29 Z=0.00 Location: X=5453.14 Y=-1607.82 Z=85.03 Normal: X=-0.99 Y=-0.09 Z=0.08 PenetrationDepth:39.680 Actor:BatteryPickup_BP_C_48 Component:PickupMEsh BoneName:None (0 other events since notify)
+[2019.11.29-12.02.45:953][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.02.45:953][695]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.02.45:981][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.29-12.02.45:981][695]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.02.46:008][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.02.46:012][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.11.29-12.02.46:055][700]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.11.29-12.02.46:730][781]Cmd: SELECT NONE
+[2019.11.29-12.02.47:633][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.29-12.02.47:725][900]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.29-12.02.47:740][900]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.02.47:740][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.29-12.02.47:740][900]PIE: New page: PIE session: MainMenu (Nov 29, 2019, 4:02:47 PM)
+[2019.11.29-12.02.47:740][900]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.11.29-12.02.47:742][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001069s)
+[2019.11.29-12.02.47:742][900]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.29-12.02.47:742][900]LogPlayLevel: PIE: World Init took: (0.000419s)
+[2019.11.29-12.02.47:742][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001590s)
+[2019.11.29-12.02.47:762][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.11.29-12.02.47:779][900]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.29-12.02.47:792][900]LogInit: FAudioDevice initialized.
+[2019.11.29-12.02.47:818][900]LogLoad: Game class is 'GameMode_BP_C'
+[2019.11.29-12.02.47:818][900]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.29-14.02.47
+[2019.11.29-12.02.47:819][900]LogWorld: Bringing up level for play took: 0.000288
+[2019.11.29-12.02.47:832][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.02.47:834][900]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu 0.812
+[2019.11.29-12.02.47:834][900]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.02.48:322][958]LogNet: Browse: /Game/BatteryCollector2
+[2019.11.29-12.02.48:323][958]LogLoad: LoadMap: /Game/BatteryCollector2
+[2019.11.29-12.02.48:346][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.11.29-12.02.48:386][958]LogAIModule: Creating AISystem for world BatteryCollector2
+[2019.11.29-12.02.48:386][958]LogLoad: Game class is 'GameMode_BP_C'
+[2019.11.29-12.02.48:389][958]LogWorld: Bringing World /Game/UEDPIE_0_BatteryCollector2.BatteryCollector2 up for play (max tick rate 0) at 2019.11.29-14.02.48
+[2019.11.29-12.02.48:389][958]LogWorld: Bringing up level for play took: 0.001396
+[2019.11.29-12.02.48:391][958]LogLoad: Took 0.068605 seconds to LoadMap(/Game/BatteryCollector2)
+[2019.11.29-12.02.49:916][140]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.02.49:916][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.02.49:943][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.29-12.02.49:943][140]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.02.49:968][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.02.49:971][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.11.29-12.02.50:015][144]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.11.29-12.02.50:632][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.29-12.02.50:699][226]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.29-12.02.50:714][226]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.02.50:714][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.29-12.02.50:714][226]PIE: New page: PIE session: MainMenu (Nov 29, 2019, 4:02:50 PM)
+[2019.11.29-12.02.50:714][226]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2019.11.29-12.02.50:715][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001020s)
+[2019.11.29-12.02.50:715][226]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.29-12.02.50:716][226]LogPlayLevel: PIE: World Init took: (0.000445s)
+[2019.11.29-12.02.50:716][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001555s)
+[2019.11.29-12.02.50:737][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.11.29-12.02.50:754][226]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.29-12.02.50:768][226]LogInit: FAudioDevice initialized.
+[2019.11.29-12.02.50:799][226]LogLoad: Game class is 'GameMode_BP_C'
+[2019.11.29-12.02.50:800][226]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.29-14.02.50
+[2019.11.29-12.02.50:800][226]LogWorld: Bringing up level for play took: 0.000300
+[2019.11.29-12.02.50:813][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.02.50:814][226]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu -0.207
+[2019.11.29-12.02.50:814][226]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.02.52:227][395]Cmd: r.setRes 640x480
+[2019.11.29-12.02.52:227][395]r.SetRes = "640x480"
+[2019.11.29-12.02.52:868][472]Cmd: r.setRes 640x480
+[2019.11.29-12.02.52:869][472]r.SetRes = "640x480"
+[2019.11.29-12.02.53:019][490]Cmd: r.setRes 640x480
+[2019.11.29-12.02.53:019][490]r.SetRes = "640x480"
+[2019.11.29-12.02.54:102][620]Cmd: r.setRes 1920x1080
+[2019.11.29-12.02.54:103][620]r.SetRes = "1920x1080"
+[2019.11.29-12.02.55:020][730]LogNet: Browse: /Game/BatteryCollector2
+[2019.11.29-12.02.55:020][730]LogLoad: LoadMap: /Game/BatteryCollector2
+[2019.11.29-12.02.55:043][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.11.29-12.02.55:084][730]LogAIModule: Creating AISystem for world BatteryCollector2
+[2019.11.29-12.02.55:084][730]LogLoad: Game class is 'GameMode_BP_C'
+[2019.11.29-12.02.55:087][730]LogWorld: Bringing World /Game/UEDPIE_0_BatteryCollector2.BatteryCollector2 up for play (max tick rate 0) at 2019.11.29-14.02.55
+[2019.11.29-12.02.55:087][730]LogWorld: Bringing up level for play took: 0.001507
+[2019.11.29-12.02.55:089][730]LogLoad: Took 0.069097 seconds to LoadMap(/Game/BatteryCollector2)
+[2019.11.29-12.03.01:070][447]LogClass: You have collected BatteryPickup_BP_C_2
+[2019.11.29-12.03.01:070][447]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.03.02:411][608]LogClass: You have collected BatteryPickup_BP_C_3
+[2019.11.29-12.03.02:411][608]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.03.07:279][192]LogClass: You have collected BatteryPickup_BP_C_33
+[2019.11.29-12.03.07:279][192]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.03.07:420][209]LogClass: You have collected BatteryPickup_BP_C_47
+[2019.11.29-12.03.07:421][209]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.03.07:630][234]LogClass: You have collected BatteryPickup_BP_C_7
+[2019.11.29-12.03.07:630][234]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.03.09:439][451]LogClass: You have collected BatteryPickup_BP_C_5
+[2019.11.29-12.03.09:439][451]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.03.10:189][541]LogClass: You have collected BatteryPickup_BP_C_78
+[2019.11.29-12.03.10:189][541]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.03.10:763][610]LogClass: You have collected BatteryPickup_BP_C_27
+[2019.11.29-12.03.10:764][610]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.11.29-12.03.29:901][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.03.29:901][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.03.29:933][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.29-12.03.29:933][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.29-12.03.29:960][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.29-12.03.29:963][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.11.29-12.03.30:000][907]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.11.29-12.03.31:033][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.29-12.03.31:146][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.11.29-12.03.31:221][ 42]LogSlate: Window 'BatteryCollector - Unreal Editor' being destroyed
+[2019.11.29-12.03.31:221][ 42]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.29-12.03.31:398][ 43]Cmd: QUIT_EDITOR
+[2019.11.29-12.03.31:850][ 43]LogExit: Preparing to exit.
+[2019.11.29-12.03.32:073][ 43]LogExit: Editor shut down
+[2019.11.29-12.03.32:073][ 43]LogExit: Transaction tracking system shut down
+[2019.11.29-12.03.32:213][ 43]LogExit: Object subsystem successfully closed.
+[2019.11.29-12.03.32:222][ 43]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.29-12.03.32:225][ 43]LogD3D11RHI: Shutdown
+[2019.11.29-12.03.32:225][ 43]LogD3D11RHI: CleanupD3DDevice
+[2019.11.29-12.03.32:226][ 43]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.29-12.03.32:226][ 43]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.29-12.03.32:226][ 43]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.29-12.03.32:226][ 43]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.29-12.03.32:226][ 43]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.29-12.03.32:226][ 43]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.29-12.03.32:319][ 43]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2019.11.29-12.03.32:337][ 43]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2019.11.29-12.03.32:338][ 43]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2019.11.29-12.03.32:651][ 43]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2019.11.29-12.03.32:651][ 43]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2019.11.29-12.03.32:651][ 43]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2019.11.29-12.03.32:651][ 43]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2019.11.29-12.03.32:651][ 43]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2019.11.29-12.03.32:651][ 43]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2019.11.29-12.03.32:651][ 43]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2019.11.29-12.03.32:652][ 43]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2019.11.29-12.03.32:706][ 43]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2019.11.29-12.03.32:706][ 43]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2019.11.29-12.03.32:706][ 43]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2019.11.29-12.03.32:706][ 43]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2019.11.29-12.03.32:706][ 43]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2019.11.29-12.03.32:706][ 43]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2019.11.29-12.03.32:706][ 43]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2019.11.29-12.03.32:706][ 43]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2019.11.29-12.03.32:706][ 43]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2019.11.29-12.03.32:706][ 43]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2019.11.29-12.03.32:706][ 43]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2019.11.29-12.03.32:706][ 43]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.11.29-12.03.32:707][ 43]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2019.11.29-12.03.32:711][ 43]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.11.29-12.03.32:961][ 43]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module BatteryCollector (296)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.11.29-12.03.32:962][ 43]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.11.29-12.03.33:063][ 43]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.11.29-12.03.33:164][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.11.29-12.03.33:164][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.11.29-12.03.33:164][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.11.29-12.03.33:164][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.11.29-12.03.33:164][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.11.29-12.03.33:164][ 43]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.29-12.03.33:164][ 43]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.11.29-12.03.33:164][ 43]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.11.29-12.03.33:164][ 43]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.11.29-12.03.33:164][ 43]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.11.29-12.03.33:164][ 43]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.11.29-12.03.33:164][ 43]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.11.29-12.03.33:164][ 43]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.11.29-12.03.33:164][ 43]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.11.29-12.03.33:164][ 43]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.11.29-12.03.33:165][ 43]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.11.29-12.03.33:165][ 43]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.11.29-12.03.33:165][ 43]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.11.29-12.03.33:165][ 43]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.11.29-12.03.33:165][ 43]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.11.29-12.03.33:166][ 43]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.11.29-12.03.33:167][ 43]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.11.29-12.03.33:198][ 43]LogDerivedDataCache: Shutdown
+[2019.11.29-12.03.33:198][ 43]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.11.29-12.03.33:198][ 43]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.11.29-12.03.33:198][ 43]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.11.29-12.03.33:198][ 43]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.11.29-12.03.33:198][ 43]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.11.29-12.03.33:198][ 43]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.11.29-12.03.33:198][ 43]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.11.29-12.03.33:198][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.11.29-12.03.33:198][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.11.29-12.03.33:198][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.11.29-12.03.33:199][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.11.29-12.03.33:199][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.11.29-12.03.33:199][ 43]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.11.29-12.03.33:199][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.11.29-12.03.33:199][ 43]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.11.29-12.03.33:199][ 43]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.11.29-12.03.33:199][ 43]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.11.29-12.03.33:199][ 43]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.11.29-12.03.33:199][ 43]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.11.29-12.03.33:199][ 43]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.11.29-12.03.33:199][ 43]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.11.29-12.03.33:199][ 43]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.11.29-12.03.33:199][ 43]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.11.29-12.03.33:200][ 43]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.11.29-12.03.33:200][ 43]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.11.29-12.03.33:200][ 43]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.11.29-12.03.33:200][ 43]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.11.29-12.03.33:203][ 43]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.11.29-12.03.33:203][ 43]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.11.29-12.03.33:203][ 43]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.11.29-12.03.33:203][ 43]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.11.29-12.03.33:203][ 43]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.11.29-12.03.33:203][ 43]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.11.29-12.03.33:203][ 43]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.11.29-12.03.33:203][ 43]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.11.29-12.03.33:203][ 43]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.11.29-12.03.33:203][ 43]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.11.29-12.03.33:203][ 43]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.11.29-12.03.33:204][ 43]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.11.29-12.03.33:204][ 43]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.11.29-12.03.33:204][ 43]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.11.29-12.03.33:204][ 43]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.29-12.03.33:204][ 43]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.11.29-12.03.33:204][ 43]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.11.29-12.03.33:204][ 43]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.11.29-12.03.33:204][ 43]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.11.29-12.03.33:204][ 43]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.11.29-12.03.33:205][ 43]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.29-12.03.33:205][ 43]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.29-12.03.33:209][ 43]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.29-12.03.33:209][ 43]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.29-12.03.33:209][ 43]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B83C428C6-4D0B-7C74-9A4D-E892114198B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=612063854c12a14f07c4039e3c1a3738%7Cd02fa5eedd2143019340887aedd136c5%7Ca2dd806d-b337-4ff1-a998-a3645bb47bfe&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.29-12.03.33:240][ 43]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.29-12.03.33:241][ 43]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.29-12.03.33:243][ 43]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.29-12.03.33:249][ 43]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.29-12.03.33:249][ 43]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.29-12.03.33:250][ 43]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.29-12.03.33:254][ 43]LogExit: Exiting.
+[2019.11.29-12.03.33:267][ 43]Log file closed, 11/29/19 14:03:33
